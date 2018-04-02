@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Buttons
+title: My Buttons
 category: elements
 tags:
     - buttons
